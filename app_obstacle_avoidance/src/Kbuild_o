@@ -1,0 +1,2 @@
+obj-y += obstacle_avoidance_test.o
+
